@@ -23,8 +23,8 @@ mongoose.connect(MONGODB_URL, {
 });
 // Connection Events
 mongoose.connection
-  .on("open", () => console.log("Your are connected to mongoose"))
-  .on("close", () => console.log("Your are disconnected from mongoose"))
+  .on("open", () => console.log("Your are connected to Mongo"))
+  .on("close", () => console.log("Your are disconnected from Mongo"))
   .on("error", (error) => console.log(error));
 
 ///////////////////////////////
