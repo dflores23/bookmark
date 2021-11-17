@@ -10,6 +10,7 @@ Frontend Github Repo: https://github.com/dflores23/bookmark-frontend
 
 
 ## Dependencies
+![image](https://user-images.githubusercontent.com/87156044/142267999-941419d9-6c89-4a57-8230-37ffff248c94.png)
 
 ## Team Planning Board
 ![image](https://user-images.githubusercontent.com/87156044/142070338-ce7806a7-9844-4f35-8908-5be56d03b38c.png)
